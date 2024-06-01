@@ -20,7 +20,10 @@
 
 - ⚡ Fun fact **Call me ADD**
 
-<h3 align="center">Connect With Me:</h3>
+### Connect With Me:
+
+---
+
 <p align="center">
 <a href="https://instagram.com/ashen_dulmina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashen_dulmina" height="40" width="50" /></a>
 </p>
