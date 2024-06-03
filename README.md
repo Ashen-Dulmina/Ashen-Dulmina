@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashen Dulmina</h1>
-<h3 align="center">A passionate frontend and backend developer from Sri-lanka</h3>
+<h3 align="center">A passionate frontend,backend and UI developer from Sri-lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashen-dulmina&label=Github%20Profile%20views&color=c80e58&style=flat-square" alt="ashen-dulmina" /> </p>
 
