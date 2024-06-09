@@ -9,7 +9,10 @@
 
 ### About Me :
 
-- 🔭 I’m currently working on [Automated YT-Shorts Generator](https://github.com/Ashen-Dulmina/Auto-YT-Shorts-Generator)
+<table align="center">
+<tr border='none'>
+<td width="50%" align="left">
+- 🔭 I’m currently working on **YT-Shorts Generator**
 
 - 🌱 I’m currently learning **Node-js**
 
@@ -22,16 +25,32 @@
 - 📫 How to reach me **ashendulminadodangoda@gmail.com**
 
 - ⚡ Fun fact **Call me ADD**
+</td>
+<td width="50%" align="center">
+  <img src="https://github.com/Ashen-Dulmina/Ashen-Dulmina/blob/main/img/vibe.gif" width=500/>
+</td>
+</tr>
+</table>
 
 ---
 
 ### My Statistics:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashen-dulmina&show_icons=true&theme=tokyonight&layout=compact" alt="ashen-dulmina" /></p>
+<table align="center">
+<tr border="none">
+<td align="left">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashen-dulmina&show_icons=true&theme=tokyonight" alt="ashen-dulmina" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashen-dulmina&show_icons=true&theme=tokyonight" alt="ashen-dulmina" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashen-dulmina&theme=tokyonight" alt="ashen-dulmina" /></p>
+</td>
+<td align="center">
+  <p><img align="left" src="https://github.com/Ashen-Dulmina/Ashen-Dulmina/blob/main/img/stats.gif" width="100" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashen-dulmina&theme=tokyonight" alt="ashen-dulmina" /></p>
+  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashen-dulmina&show_icons=true&theme=tokyonight&layout=compact" alt="ashen-dulmina" /></p>
+
+</td>
+</tr>
+</table>
 
 ---
 
