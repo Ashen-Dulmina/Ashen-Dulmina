@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif"/></p>
+
 <h1 align="center">Hi 👋, I'm Ashen Dulmina</h1>
 <h3 align="center">A passionate frontend,backend and UI developer from Sri-lanka</h3>
 
