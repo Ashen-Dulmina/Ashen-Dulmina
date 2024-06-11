@@ -44,8 +44,6 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashen-dulmina&theme=tokyonight" alt="ashen-dulmina" /></p>
 </td>
 <td align="center">
-  <p><img align="left" src="https://github.com/Ashen-Dulmina/Ashen-Dulmina/blob/main/img/stats.gif" width="100" /></p>
-
   <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashen-dulmina&show_icons=true&theme=tokyonight&layout=compact" alt="ashen-dulmina" /></p>
 
 </td>
