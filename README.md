@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://instagram.com/ashen_dulmina" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="ashen_dulmina" height="50" width="50" /></a>
-  <a href="https://www.hackerrank.com/profile/ashendulminadod1" target="blank"><img align="center" src="https://github.com/Ashen-Dulmina/Ashen-Dulmina/blob/main/img/" alt="ashen_dulmina" height="50" width="50" /></a>
+  <a href="https://www.hackerrank.com/profile/ashendulminadod1" target="blank"><img align="center" src="https://github.com/Ashen-Dulmina/Ashen-Dulmina/blob/main/img/hackerrank.png" alt="ashen_dulmina" height="60" width="60" /></a>
 </p>
 
 ---
