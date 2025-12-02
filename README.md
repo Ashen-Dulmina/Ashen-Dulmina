@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **ashendulminadodangoda@gmail.com**
 
-- ⚡ Fun fact **Call me ADD**
+- ⚡ Fun fact **U2FsdGVkX18+3WDUuc/krfjzIYO2YJ9lESoQCFx5fnZt+kQMWS91U2uJp6mucjap**
 </td>
 <td width="50%" align="center">
   <img src="https://github.com/Ashen-Dulmina/Ashen-Dulmina/blob/main/img/vibe.gif" width=500/>
