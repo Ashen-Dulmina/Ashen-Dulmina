@@ -13,7 +13,7 @@
 <tr border='none'>
 <td width="50%" align="left">
   
-- 👨‍💻 Below_average
+- 👨‍💻 I'm **Below_average**
   
 - ❓ Just your average programmer, but below the average.
   
@@ -23,11 +23,11 @@
   
 - 🐛 I write programs that sometimes work—and other times, well, they don't.
   
-- 🔧 “Will debug for coffee.” (fr)
+- 🔧 ***“Will debug for coffee.”*** (fr)
   
 - 💬 Here to learn, laugh, and occasionally break things.
   
-- 🌍 Living proof that you can work with 1% of your brain!
+- 🌍 Living proof that you can work with **1%** of your brain!
 </td>
 <td width="50%" align="center">
   <img src="https://github.com/Ashen-Dulmina/Ashen-Dulmina/blob/main/img/vibe.gif" width=500/>
