@@ -12,20 +12,22 @@
 <table align="center">
 <tr border='none'>
 <td width="50%" align="left">
-
-  - 🔭 I’m currently working on [**Brain-Rot**](https://github.com/Ashen-Dulmina/Brain-Rot)
-
-- 🌱 I’m currently learning **Node-js**
-
-- 🤝 I’m looking for help with [Automated YT-Shorts Generator](https://github.com/Ashen-Dulmina/Auto-YT-Shorts-Generator)
-
-- 👨‍💻 My Portfolio [Sorry.Not.Yet](Sorry.Not.Yet)
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **ashendulminadodangoda@gmail.com**
-
-- ⚡ **U2FsdGVkX18+3WDUuc/krfjzIYO2YJ9lESoQCFx5fnZt+kQMWS91U2uJp6mucjap**
+  
+- 👨‍💻 Below_average
+  
+- ❓ Just your average programmer, but below the average.
+  
+- 📚 Student by day, programmer by night
+  
+- 🔍 Searching for bugs in my code and my life.
+  
+- 🐛 I write programs that sometimes work—and other times, well, they don't.
+  
+- 🔧 “Will debug for coffee.” (fr)
+  
+- 💬 Here to learn, laugh, and occasionally break things.
+  
+- 🌍 Living proof that you can work with 1% of your brain!
 </td>
 <td width="50%" align="center">
   <img src="https://github.com/Ashen-Dulmina/Ashen-Dulmina/blob/main/img/vibe.gif" width=500/>
